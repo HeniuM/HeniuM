@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="175" src="https://i.imgur.com/9V76flu.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -21,7 +17,7 @@
 ###
 
 <div align="left">
-  <a href="h.f.mudlaff@gmail.com" target="_blank">
+  <a href="mailto:h.f.mudlaff@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/henryk-mudlaff-87a285240" target="_blank">
